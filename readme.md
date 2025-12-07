@@ -14,6 +14,8 @@
 
 **Follow Me**
 - [TryHackMe](https://tryhackme.com/p/tryhackmehackme)
+- [Coursera](https://www.coursera.org/learner/iamayush)
+- [TakeUforward by striver](https://takeuforward.org/plus/profile/myself_ayush)
 - [LeetCode](https://leetcode.com/u/leetcodelogic/)
 - [Kaggle](https://www.kaggle.com/googlelogic)
 - [HuggingFace](https://huggingface.co/internet404)
