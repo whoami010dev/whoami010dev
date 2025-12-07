@@ -12,9 +12,10 @@
   </a><br>
 </p>
 
-**Follow Me**
+**It's Me**
+- [Credbly Badges](https://www.credly.com/users/myselfayush)
 - [TryHackMe](https://tryhackme.com/p/tryhackmehackme)
-- [Coursera](https://www.coursera.org/learner/iamayush)
+- [Coursera Certifications](https://www.coursera.org/learner/iamayush)
 - [TakeUforward by striver](https://takeuforward.org/plus/profile/myself_ayush)
 - [LeetCode](https://leetcode.com/u/leetcodelogic/)
 - [Kaggle](https://www.kaggle.com/googlelogic)
