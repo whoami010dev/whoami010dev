@@ -1,16 +1,20 @@
-<H1 align="center">
-  <a href="https://astralelite.org" style="text-decoration:none;">
-    <b><span style="font-size:2em;">Astralelite.org</span></b>
+<div align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 20px;">
+  
+  <a href="https://astralelite.org" style="text-decoration:none; color: #000;">
+    <span style="font-size: 1.8em; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">
+      AstralElite.org
+    </span>
   </a>
 
-  <span style="font-size:2em; margin: 0 15px;">&nbsp;✦&nbsp;</span>
+  <span style="font-size: 1.8em; color: #D4AF37; margin: 0 25px; vertical-align: middle;">✦</span>
 
-  <a href="https://blog.astralelite.org" style="text-decoration:none;">
-    <b><span style="font-size:2em;">Blog.AstralElite.org</span></b>
+  <a href="https://blog.astralelite.org" style="text-decoration:none; color: #333;">
+    <span style="font-size: 1.8em; font-weight: 300; letter-spacing: 2px; text-transform: uppercase;">
+      Blog
+    </span>
   </a>
-</H1>
 
-
+</div>
 
 <p align="center">
   <a href="mailto:hi@astralelite.org" style="text-decoration:none;">
