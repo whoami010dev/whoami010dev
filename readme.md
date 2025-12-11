@@ -24,7 +24,6 @@
 **projects**
 
 - [journal.astralelite.org](https://journal.astralelite.org)
-- [flow.astralelite.org](https://flow.astralelite.org)
 - [xue.astralelite.org](https://xue.astralelite.org)
 - [hashpros.astralelite.org](https://hashpros.astralelite.org)
 - [Telegram youtube downloader Bot ](https://github.com/AE-OSS/yt-downloader-tg-bot)
