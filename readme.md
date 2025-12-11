@@ -3,7 +3,7 @@
     <b><span style="font-size:2em;">Astralelite.org</span></b>
   </a>
 
- |
+  <span style="font-size:2em; margin: 0 15px;">&nbsp;✦&nbsp;</span>
 
   <a href="https://blog.astralelite.org" style="text-decoration:none;">
     <b><span style="font-size:2em;">Blog.AstralElite.org</span></b>
