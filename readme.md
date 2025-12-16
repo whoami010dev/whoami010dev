@@ -1,6 +1,6 @@
 <div align="center" style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 20px;">
   
-  <a href="https://astralelite.org" style="text-decoration:none; color: #000;">
+  <a href="https://astralelite.org" target="_blank" style="text-decoration:none; color: #000;">
     <span style="font-size: 1.8em; font-weight: 700; letter-spacing: 2px; text-transform: uppercase;">
       AstralElite.org
     </span>
