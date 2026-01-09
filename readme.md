@@ -17,8 +17,8 @@
 </div>
 
 <p align="center">
-  <a href="mailto:hi@astralelite.org" style="text-decoration:none;">
-    <span style="font-size:1.8em; font-weight:600;">📨 hi@astralelite.org</span>
+  <a href="mailto:Ayush@astralelite.org" style="text-decoration:none;">
+    <span style="font-size:1.8em; font-weight:600;">📨 Ayush@astralelite.org</span>
   </a><br>
 </p>
 
